@@ -21,7 +21,7 @@ func TestGetAPIKey(t *testing.T) {
 		"No auth tail": {
 			input:   "ApiKey",
 			key:     "",
-			wantErr: "alformed authorization header",
+			wantErr: "no authorization header",
 		},
 		"No space in Auth": {
 			input:   "ApiKeyAuthkey",
