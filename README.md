@@ -1,4 +1,4 @@
-![ci tests](https://github.com/deexth/learn-cicd-starter)
+![ci tests](https://github.com/deexth/learn-cicd-starter/actions/workflows/ci/badge.svg)
 
 # learn-cicd-starter (Notely)
 
