@@ -20,6 +20,11 @@ jobs:
 
       - name: Check test
         run: go test -cover -v ./...
+
+      - name: Security check with gosec
+        uses: securego/gosec@master
+        with:
+          args: ./...
     
   style:      
     name: Style
