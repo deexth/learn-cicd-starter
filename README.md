@@ -1,4 +1,5 @@
 ![ci tests](https://github.com/deexth/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
+![cd health](https://github.com/deexth/learn-cicd-starter/actions/workflows/cd.yml/badge.svg)
 
 # learn-cicd-starter (Notely)
 

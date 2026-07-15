@@ -20,4 +20,4 @@ jobs:
           go-version: "1.26.0"
 
       - name: Build notely
-        run: .scripts/buildprod.sh
+        run: ./scripts/buildprod.sh
